@@ -1,0 +1,12 @@
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\bin\Debug\TEPEEE.exe.config
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\bin\Debug\TEPEEE.exe
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\bin\Debug\TEPEEE.pdb
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.csprojAssemblyReference.cache
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.Login.resources
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.Properties.Resources.resources
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.csproj.GenerateResource.cache
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.csproj.CoreCompileInputs.cache
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.exe
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.pdb
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.MenuUtama.resources
+C:\Users\zahra\source\repos\TEPEEE\TEPEEE\obj\Debug\TEPEEE.MenuDetail.resources
